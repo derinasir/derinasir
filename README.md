@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Derin
-- 👨‍💻 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 👨‍💻 I’m interested in any kinds of development!
+- 🌱 I’m currently learning Web Design
 - 📫 How to reach me: @derinasir on Twitter
 
 <!---

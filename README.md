@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Derin
 - 👨‍💻 I’m interested in development!
-- 🌱 I’m currently learning Angular
 - 📫 How to reach me: @derinasir on Twitter
 - 🌐 My website: https://derinasir.github.io
 
